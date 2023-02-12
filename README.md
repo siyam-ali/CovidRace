@@ -8,6 +8,8 @@ for performing operations on the data.
 
 ## Video Example:
 
+https://user-images.githubusercontent.com/123148290/218333817-b0c75cb0-2e92-4018-a7b9-ab323c2a95d2.mp4
+
 ## How to Launch the Project Locally:
 
 1.) Install packages from requirements.txt with pip install -r requirements.txt in your shell. You can also 
